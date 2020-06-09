@@ -1,5 +1,7 @@
-#A simple application for study. A people counter.
+#People Count
+A simple application for study. A people counter.
 
-###JuanCalavera
+## Juan Solferini Jurado
 
-#Uma simples aplicação para estudo. Um contador de pessoas.
+- [My GitHub](https://github.com/JuanCalavera)
+- [My LinkedIn](https://www.linkedin.com/in/juan-jurado-b87036141/)
